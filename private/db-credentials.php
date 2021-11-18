@@ -2,9 +2,9 @@
 
 // local
 define("DB_SERVER", "localhost");
-define("DB_USER", "doall");
-define("DB_PASS", "MAGNIFY-gyro-almond-brickbat");
-define("DB_NAME", "bird");
+define("DB_USER", "root");
+define("DB_PASS", "");
+define("DB_NAME", "wnc-birds");
 
 //webhost
 // define("DB_SERVER", "localhost");

@@ -23,7 +23,7 @@
        <?php
         if($session->is_logged_in()) { ?>
             <li>
-                User: <?php echo "$session->username"; ?>
+                User: <?php echo $session->username; ?>
             </li>
         <?php } else echo "did not work."; ?>
       </ul>
